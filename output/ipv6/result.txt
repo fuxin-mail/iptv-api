@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-09 23:38:03,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
+2026-04-11 22:34:12,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 
 📺央视频道,#genre#
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
@@ -411,6 +411,7 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 凤凰卫视中文台,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
 凤凰卫视中文台,http://r.jdshipin.com/cCCzW
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
+凤凰卫视资讯台,https://t.freetv.fun/live/feng-huang-zi-xun.php
 凤凰卫视香港台,https://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰卫视香港台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk2
@@ -886,6 +887,8 @@ NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi.m3u8
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-1.m3u8
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
