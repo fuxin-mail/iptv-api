@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fuxin-mail/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="🕘️更新时间",2026-04-22 18:17:59
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="🕘️更新时间",2026-04-23 21:07:30
 https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
 https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
@@ -1729,8 +1729,12 @@ http://ls.qingting.fm/live/267.m3u8
 http://ls.qingting.fm/live/1794199.m3u8
 #EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南公共.png" group-title="☘️河南频道",河南公共
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c83e610b8eb96071590b1ebd652e6180&wsTime=1776823150
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南公共.png" group-title="☘️河南频道",河南公共
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b1e8011da5cd61dc7cea902b284de60e&wsTime=1776909591
 #EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南法治.png" group-title="☘️河南频道",河南法治
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=6d6e7f649855a65aa68f87185da39dee&wsTime=1776823150
+#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南法治.png" group-title="☘️河南频道",河南法治
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=306726d6854d55f9e6b4a1f8271f5b0b&wsTime=1776909591
 #EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="武术世界频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武术世界频道.png" group-title="☘️河南频道",武术世界频道
 https://hls-gateway.vpstv.net/streams/708969.m3u8
 #EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="武术世界频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武术世界频道.png" group-title="☘️河南频道",武术世界频道
@@ -1853,6 +1857,10 @@ http://gxyd.484947.xyz/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1
 https://t.freetv.fun/live/yan-xi-ying-shi-1.m3u8
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西影视.png" group-title="☘️广西频道",广西影视
 https://t.freetv.fun/live/yan-xi-ying-shi-2.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西影视.png" group-title="☘️广西频道",广西影视
+https://t.freetv.fun/live/yan-xi-ying-shi-3.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西影视.png" group-title="☘️广西频道",广西影视
+https://t.freetv.fun/live/yan-xi-ying-shi.m3u8
 #EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="☘️广西频道",广西新闻
 https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 #EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="☘️广西频道",广西新闻
@@ -2185,6 +2193,10 @@ http://gxyd.484947.xyz/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1
 https://t.freetv.fun/live/yan-xi-ying-shi-1.m3u8
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西影视.png" group-title="☘️影视频道",广西影视
 https://t.freetv.fun/live/yan-xi-ying-shi-2.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西影视.png" group-title="☘️影视频道",广西影视
+https://t.freetv.fun/live/yan-xi-ying-shi-3.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西影视.png" group-title="☘️影视频道",广西影视
+https://t.freetv.fun/live/yan-xi-ying-shi.m3u8
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川影视文艺.png" group-title="☘️影视频道",四川影视文艺
 http://wouu.net:9977/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/峨眉电影.png" group-title="☘️影视频道",峨眉电影
