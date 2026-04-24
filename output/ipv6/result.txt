@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-23 21:07:30,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
+2026-04-24 23:49:24,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 
 📺央视频道,#genre#
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
@@ -108,6 +108,7 @@ CCTV-4美洲,https://t.freetv.fun/live/cctv4mei-zhou-2.m3u8
 CCTV-4美洲,http://k.061899.xyz/k.php?id=cctv4m
 CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV-4美洲,https://t.freetv.fun/live/cctv4-mei-zhou.m3u8
+CCTV-4美洲,https://t.freetv.fun/live/cctv4mei-zhou-1.m3u8
 CCTV-4欧洲,https://t.freetv.fun/live/cctv4ou-zhou.m3u8
 CCTV-4欧洲,https://t.freetv.fun/live/cctv4ou-zhou-2.m3u8
 CCTV-4欧洲,http://k.061899.xyz/k.php?id=cctv4o
@@ -305,6 +306,7 @@ CETV-4 职业教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 陕西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
 陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-6.m3u8
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-1.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2.php
 甘肃卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
 甘肃卫视,http://k.061899.xyz/k.php?id=gsws
@@ -909,8 +911,10 @@ NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
 ☘️河南频道,#genre#
 河南公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c83e610b8eb96071590b1ebd652e6180&wsTime=1776823150
 河南公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b1e8011da5cd61dc7cea902b284de60e&wsTime=1776909591
+河南公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4f40f35792c5de2b494cf8d5768915c9&wsTime=1776995978
 河南法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=6d6e7f649855a65aa68f87185da39dee&wsTime=1776823150
 河南法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=306726d6854d55f9e6b4a1f8271f5b0b&wsTime=1776909591
+河南法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=19bd621ad9001176dc2def1fe49498b6&wsTime=1776995978
 武术世界频道,https://hls-gateway.vpstv.net/streams/708969.m3u8
 武术世界频道,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
 武术世界频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
